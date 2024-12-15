@@ -30,7 +30,7 @@ En resumen, WinSlim está diseñado para ofrecer una experiencia de uso optimiza
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Origen de WinSlim
+Origen de WinSlim:
 
 Desde hace años, soy informático y usuario del sistema operativo Windows.
 
