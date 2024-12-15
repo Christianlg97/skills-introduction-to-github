@@ -1,75 +1,57 @@
-<header>
+¿ Qué es WinSlim ?
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Es una versión modificada de Windows pensada para maximizar el rendimiento, la eficiencia y la privacidad del usuario. Nace a partir del descontento con la evolución de las versiones oficiales de Windows, que, aunque ofrecen seguridad y modernidad, carecen de la ligereza y la optimización que tuvieron sistemas anteriores como Windows XP o 7. Esta propuesta elimina bloatware, desactiva servicios innecesarios, reduce la telemetría, ajusta parámetros visuales y aplica configuraciones específicas a nivel de registro, todo con el objetivo de ofrecer una experiencia fluida, rápida y estable, independientemente del hardware.
+La esencia de WinSlim es devolver la sensación de inmediatez, simplicidad y control sobre el sistema operativo, garantizando mayor privacidad, menor consumo de recursos y una experiencia más cercana a los Windows clásicos, sin renunciar a las mejoras actuales. Los scripts incluidos ilustran cómo se automatizan ajustes de registro y la creación de accesos directos útiles, así como la aplicación de configuraciones gráficas, de red y de seguridad, buscando en conjunto una interacción más ágil con el equipo. En definitiva, WinSlim se presenta como un Windows "adelgazado" y adaptado al gusto del usuario que prioriza el rendimiento y la optimización por encima de funciones superfluas.
 
-# Introduction to GitHub
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-_Get started using GitHub in less than an hour._
 
-</header>
+Características de WinSlim:
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+- Optimización de Recursos: Eliminación de bloatware, servicios innecesarios y ajustes de Registro para mejorar rendimiento.
 
-## Step 1: Create a branch
+- Mejor Fluidez y Estabilidad: Configuraciones visuales minimalistas y reducción de procesos en segundo plano.
 
-_Welcome to "Introduction to GitHub"! :wave:_
+- Mayor Privacidad: Desactivación de telemetría y limitación de la recopilación de datos por parte de terceros.
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+- Compatibilidad con Hardware Variado: Funciona de forma óptima en PCs potentes o de bajos recursos, HDD o SSD, poca RAM y CPUs modestas.
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+- Experiencia Sencilla y Familiar: Entorno similar a Windows XP/7 con accesos directos útiles y sin funciones innecesarias.
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+- Enfoque en el Rendimiento Gráfico y Gaming: Ajustes para priorizar la GPU y optimizar la experiencia en juegos exigentes.
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+- Optimización de Red y Reducción de Latencia: Configuraciones en TCP/IP, desactivación de indexación y búsquedas innecesarias.
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+- Control sobre Actualizaciones: Reducción del impacto de procesos automáticos, permitiendo al usuario decidir qué conservar.
 
-![profile-readme-example](/images/profile-readme-example.png)
 
-### :keyboard: Activity: Your first branch
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+En resumen, WinSlim está diseñado para ofrecer una experiencia de uso optimizada, combinando modernidad y eficiencia sin sacrificar la estabilidad y la privacidad. Únete a nosotros y descubre una nueva forma de disfrutar Windows al máximo.
 
-   ![code-tab](/images/code-tab.png)
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-3. Click on the **main** branch drop-down.
+Origen de WinSlim
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+Desde hace años, soy informático y usuario del sistema operativo Windows.
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+Al igual que muchos lectores de este texto, fui testigo del increíble rendimiento y optimización que ofrecía Windows XP, la primera versión que utilicé de joven.
 
-   ![create-branch-button](/images/create-branch-button.png)
+Posteriormente, Windows 7 se convirtió para mí en el mejor sistema operativo que Microsoft ha lanzado hasta la fecha. Su fluidez, rapidez y estabilidad eran admirables, cualidades que, en mi opinión, no se encuentran en las versiones actuales de Windows.
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+En contraste, percibo que las versiones más recientes de Windows carecen de un enfoque claro, intentando abarcar múltiples campos y plataformas sin centrarse en la optimización de ninguna en particular. Se añaden funciones y características con el objetivo de ampliar la compatibilidad y "mejorar" la experiencia de uso, tomando como claro ejemplo Windows 11. El resultado final es un sistema operativo moderno en estética y funcionalidad, pero menos optimizado que sus predecesores. Comparo Windows con un edificio antiguo al que se le han añadido plantas adicionales sin reestructurar sus cimientos. Además, la falta de respeto hacia la privacidad y la libertad del usuario es notable, limitando la elección sobre qué información compartir y qué elementos incluir en la experiencia del sistema operativo. También se restringe el acceso a hardware antiguo, fomentando la compra de equipos nuevos sin una justificación real.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+Quiero destacar que esta es una reflexión personal y habrán quienes tengan una opinión contraria. Es importante reconocer las mejoras en seguridad y facilidad de uso del sistema operativo, como la actualización de drivers y paquetes del sistema, tareas que antes eran más complejas y que ahora se resuelven con unos pocos clics.
 
-<footer>
+No obstante, con sus pros y contras, considero que Windows encierra un potencial limitado debido a la sobrecarga de servicios, componentes y aplicaciones (bloatware) de Microsoft y terceros. Estos elementos, que probablemente el usuario final no aprovecha, consumen recursos de manera innecesaria.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Impulsado por mi obsesión por el perfeccionismo en la optimización, fluidez, estabilidad y eficiencia de mis dispositivos, invertí un tiempo considerable en investigar métodos, ajustes y programas de optimización del sistema. Exploré configuraciones e incluso el propio código y estructura del sistema operativo para entender en profundidad su funcionamiento y lograr la máxima optimización del rendimiento en mi PC, intentando recuperar la experiencia satisfactoria que disfrutaba con Windows XP y 7.
 
----
+Con el tiempo, y no conforme con solo aplicar configuraciones personalizadas después de formatear, me introduje en el mundo de la programación y desarrollé este proyecto personal. Quise reconvertir mi sistema operativo favorito, y el de mis familiares y amigos, en una versión objetiva en funcionalidad y rendimiento. El enfoque principal se orienta estrictamente hacia el mínimo consumo de recursos y el máximo rendimiento posible, sin comprometer la estabilidad ni la seguridad del sistema.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+De este concepto nació WinSlim, una versión de Windows pensada para aquellos que, al igual que yo, desean disfrutar de un sistema operativo moderno, útil y eficaz para todas sus tareas frecuentes. WinSlim ofrece un entorno responsivo, minimalista e intuitivo, similar al funcionamiento de Windows en sus versiones anteriores, sin discriminación por hardware ni requisitos mínimos absurdos. Además, mejora la privacidad al evitar la recopilación excesiva de datos y elimina funciones innecesarias y aplicaciones en segundo plano que consumen recursos de manera arbitraria.
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+WinSlim es ideal tanto para gamers y entusiastas que cuentan con un hardware potente y buscan exprimirlo al máximo, como para usuarios con ordenadores portátiles o de sobremesa con recursos limitados. Aunque WinSlim no hará milagros ni logrará lo imposible (no obtendrás 60 fps estables en Cyberpunk con una Intel HD), te garantizo que tu experiencia en Windows mejorará notablemente, sin importar el equipo que utilices.
 
-</footer>
+Este sistema cuenta con mejoras para gráficas dedicadas, optimizaciones para equipos con HDD, poca memoria RAM y CPUs modestos, gestionando los recursos de manera más eficiente y libre de características y funciones en segundo plano y bloatware. Además, es libre de telemetría y minimiza la información recopilada por terceros, salvaguardando la privacidad del usuario y eliminando el impacto en el rendimiento que esto generaba.
+
+- Christian Luis Gonzalez, "Autor de WinSlim" -
